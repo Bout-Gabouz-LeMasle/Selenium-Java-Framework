@@ -1,0 +1,4 @@
+$(document).ready(function() {
+CucumberHTML.timelineItems.pushArray([{"id":"218adc79-a26d-444d-ab0e-a8664342c7c7","feature":"Login","scenario":"Login Locked","start":1769381912710,"group":"TestNG-PoolService-2","content":"","tags":"@login,","end":1769381923988,"className":"passed"},{"id":"3a0d71c6-2f1a-4ac6-9028-66daed8272b4","feature":"Login","scenario":"Login success","start":1769381912710,"group":"TestNG-PoolService-1","content":"","tags":"@login,","end":1769381934097,"className":"passed"}]);
+CucumberHTML.timelineGroups.pushArray([{"id":"TestNG-PoolService-1","content":"TestNG-PoolService-1"},{"id":"TestNG-PoolService-2","content":"TestNG-PoolService-2"}]);
+});
