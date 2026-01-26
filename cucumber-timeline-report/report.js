@@ -1,4 +1,4 @@
 $(document).ready(function() {
-CucumberHTML.timelineItems.pushArray([{"id":"acec4e0b-e9bf-4c9b-b67f-ce60e7e95afd","feature":"Login","scenario":"Login Locked","start":1769418859798,"group":"TestNG-PoolService-2","content":"","tags":"@login,","end":1769418874528,"className":"passed"},{"id":"73252cd6-d04e-422a-980f-2b4b68a2c819","feature":"Login","scenario":"Login success","start":1769418859765,"group":"TestNG-PoolService-1","content":"","tags":"@login,","end":1769418884767,"className":"passed"}]);
+CucumberHTML.timelineItems.pushArray([{"id":"1a2bd142-8f8e-4ecb-87cb-b0d7be8b6554","feature":"Login","scenario":"Login Locked","start":1769418938787,"group":"TestNG-PoolService-2","content":"","tags":"@login,","end":1769418949820,"className":"passed"},{"id":"d5819934-7ed6-45bd-b600-177758c1d166","feature":"Login","scenario":"Login success","start":1769418938754,"group":"TestNG-PoolService-1","content":"","tags":"@login,","end":1769418959997,"className":"passed"}]);
 CucumberHTML.timelineGroups.pushArray([{"id":"TestNG-PoolService-1","content":"TestNG-PoolService-1"},{"id":"TestNG-PoolService-2","content":"TestNG-PoolService-2"}]);
 });
