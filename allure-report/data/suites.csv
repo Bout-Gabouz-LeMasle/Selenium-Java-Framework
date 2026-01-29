@@ -1,3 +1,3 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","12206","Login Locked","","Thu Jan 29 10:22:39 UTC 2026","passed","Thu Jan 29 10:22:51 UTC 2026","","Login","Login Locked",""
-"","22290","Login success","","Thu Jan 29 10:22:39 UTC 2026","passed","Thu Jan 29 10:23:01 UTC 2026","","Login","Login success",""
+"","30850","Login Locked","","Thu Jan 29 10:22:30 UTC 2026","passed","Thu Jan 29 10:23:01 UTC 2026","","Login","Login Locked",""
+"","41230","Login success","","Thu Jan 29 10:22:30 UTC 2026","passed","Thu Jan 29 10:23:12 UTC 2026","","Login","Login success",""
